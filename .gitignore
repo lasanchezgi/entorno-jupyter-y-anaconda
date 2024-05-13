@@ -1,3 +1,8 @@
 *.ini
 *.png
 *.pdf
+
+/docs
+/img
+
+/.venv
